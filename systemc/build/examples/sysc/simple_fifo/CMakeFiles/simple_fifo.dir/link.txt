@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/simple_fifo.dir/simple_fifo.cpp.o  -o simple_fifo  -Wl,-rpath,/home/danny/ramdisk/systemc/systemc/build/src ../../../src/libsystemc.so.2.3.3 -pthread 

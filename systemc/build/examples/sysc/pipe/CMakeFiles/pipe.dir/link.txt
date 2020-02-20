@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/pipe.dir/main.cpp.o CMakeFiles/pipe.dir/display.cpp.o CMakeFiles/pipe.dir/numgen.cpp.o CMakeFiles/pipe.dir/stage1.cpp.o CMakeFiles/pipe.dir/stage2.cpp.o CMakeFiles/pipe.dir/stage3.cpp.o  -o pipe  -Wl,-rpath,/home/danny/ramdisk/systemc/systemc/build/src ../../../src/libsystemc.so.2.3.3 -pthread 

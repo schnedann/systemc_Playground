@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/rsa.dir/rsa.cpp.o  -o rsa  -Wl,-rpath,/home/danny/ramdisk/systemc/systemc/build/src ../../../src/libsystemc.so.2.3.3 -pthread 

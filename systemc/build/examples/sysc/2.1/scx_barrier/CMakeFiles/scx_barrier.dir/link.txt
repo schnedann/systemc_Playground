@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/scx_barrier.dir/main.cpp.o  -o scx_barrier  -Wl,-rpath,/home/danny/ramdisk/systemc/systemc/build/src ../../../../src/libsystemc.so.2.3.3 -pthread 
